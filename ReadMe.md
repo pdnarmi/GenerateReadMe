@@ -1,22 +1,22 @@
 
-        WriteMe
+        ======sdf======
         ===============
-        Author:Patrick Narmi
+        Author:dfdaf
         -------
         
         Introduction
         ------------
-        This application is designed to streamline the readme writing process!
+        sd
 
         Install
         ------
-        npm i inquirer after downloading WriteMe.js
+        fsd
 
         Operation Instructions
         ----------------------
-        Simply follow the onscreen prompts and a readme file will automatically be generated!
+        f
 
         Contribution
         -------------
-        Email me at pdnarmi@ncsu.edu to contribute!
+        sdf
     

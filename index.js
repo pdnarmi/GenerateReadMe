@@ -35,7 +35,7 @@ const promptUser = ()=>{
 
 const generateMarkDown = answers =>{
     return `
-        ${answers.name}
+        ======${answers.name}======
         ===============
         Author:${answers.author}
         -------
